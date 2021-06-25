@@ -21,7 +21,7 @@ body{
     list-style-type: none;
 }
 .navbar{
-    background: #91000;
+    background: #fafafa;
     padding: 0 1rem;
     position: fixed;
     top: 0;
@@ -57,7 +57,8 @@ body{
 .navbar-toggler:hover{
     opacity: 0.7;
 }
-overflow-y: scroll;
+.navbar-collapse{
+    overflow-y: scroll;
     display: none;
 }
 .navbar-nav > li > a{
@@ -127,7 +128,7 @@ overflow-y: scroll;
     padding: 0.6rem 1rem;
     cursor: pointer;
     background: #000;
-    color: #f91000;
+    color: #fff;
     transition: all 0.5s ease;
 }
 .sub-menu-item:nth-child(3) .btn:hover{
@@ -153,12 +154,12 @@ overflow-y: scroll;
     margin: 1rem;
     font-size: 3rem;
     font-weight: 900;
-    color: #91000;
+    color: #fff;
     letter-spacing: 2px;
 }
 .header p{
     margin: 1rem auto;
-    color: #91000;
+    color: #fff;
     width: 60%;
     opacity: 0.8;
     font-weight: 300;
@@ -170,14 +171,14 @@ overflow-y: scroll;
     font-size: 1rem;
     text-transform: uppercase;
     background: #000;
-    color: #91000;
+    color: #fff;
     border: none;
     padding: 0.8rem 1.5rem;
     transition: all 0.5s ease;
     cursor: pointer;
 }
 .header button:hover{
-    background: #91000;
+    background: #fff;
     color: #000;
 }
 
