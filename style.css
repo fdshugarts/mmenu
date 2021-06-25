@@ -154,12 +154,12 @@ body{
     margin: 1rem;
     font-size: 3rem;
     font-weight: 900;
-    color: #fff;
+    color: #000;
     letter-spacing: 2px;
 }
 .header p{
     margin: 1rem auto;
-    color: #fff;
+    color: #000;
     width: 60%;
     opacity: 0.8;
     font-weight: 300;
