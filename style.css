@@ -57,8 +57,7 @@ body{
 .navbar-toggler:hover{
     opacity: 0.7;
 }
-.navbar-collapse{
-    overflow-y: scroll;
+overflow-y: scroll;
     display: none;
 }
 .navbar-nav > li > a{
@@ -128,7 +127,7 @@ body{
     padding: 0.6rem 1rem;
     cursor: pointer;
     background: #000;
-    color: #fff;
+    color: #f91000;
     transition: all 0.5s ease;
 }
 .sub-menu-item:nth-child(3) .btn:hover{
@@ -154,12 +153,12 @@ body{
     margin: 1rem;
     font-size: 3rem;
     font-weight: 900;
-    color: #fff;
+    color: #91000;
     letter-spacing: 2px;
 }
 .header p{
     margin: 1rem auto;
-    color: #fff;
+    color: #91000;
     width: 60%;
     opacity: 0.8;
     font-weight: 300;
@@ -171,14 +170,14 @@ body{
     font-size: 1rem;
     text-transform: uppercase;
     background: #000;
-    color: #fff;
+    color: #91000;
     border: none;
     padding: 0.8rem 1.5rem;
     transition: all 0.5s ease;
     cursor: pointer;
 }
 .header button:hover{
-    background: #fff;
+    background: #91000;
     color: #000;
 }
 
