@@ -140,7 +140,7 @@ body{
     transition: all 0.5s ease;
 }
 .sub-menu-item:nth-child(3) .btn:hover{
-    background: transparent;
+    background: #ddd;
     color: #ddd;
 }
 .sub-menu-item:nth-child(4){
