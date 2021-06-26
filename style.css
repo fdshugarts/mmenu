@@ -136,7 +136,7 @@ body{
     padding: 0.6rem 1rem;
     cursor: pointer;
     background: #BD1E1E;
-    color: #000;
+    color: #fff;
     transition: all 0.5s ease;
 }
 .sub-menu-item:nth-child(3) .btn:hover{
