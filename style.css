@@ -108,6 +108,7 @@ body{
 
 .sub-menu-item{
     padding-left: 1.2rem;
+    color: #000;
 }
 .sub-menu-item:nth-child(3){
     background: #ddd;
