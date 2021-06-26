@@ -141,7 +141,7 @@ body{
 }
 .sub-menu-item:nth-child(3) .btn:hover{
     background: #ddd;
-    color: #ddd;
+    color: #000;
 }
 .sub-menu-item:nth-child(4){
     width: 50%;
