@@ -48,7 +48,7 @@ body{
 .navbar-toggler{
     display: block;
     border: none;
-    background: #fff;
+    background: #d3dcde;
     font-size: 1.8rem;
     cursor: pointer;
     padding: 0.2rem 0.5rem;
@@ -109,13 +109,13 @@ body{
 .sub-menu{
     display: none;
     color: #000;
-    background: #d3dcde;
+    background: #fff;
 }
 
 .sub-menu-item{
     padding-left: 1.2rem;
     color: #000;
-    background: #d3dcde;
+    background: #fff;
 }
 .sub-menu-item:nth-child(3){
     background: #ddd;
