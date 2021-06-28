@@ -115,10 +115,10 @@ body{
 .sub-menu-item{
     padding-left: 1.2rem;
     color: #000;
-    background: #ddd;
+    background: #fff;
 }
 .sub-menu-item:nth-child(3){
-    background: #fff;
+    background: #ddd;
     display: flex;
     flex-direction: column;
     justify-content: center;
